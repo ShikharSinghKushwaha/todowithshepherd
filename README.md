@@ -1,6 +1,6 @@
-# Quine Quest
+# Quine Quest Project
 
-Welcome to Quine Quest! This project is a sophisticated ToDo application enhanced with a guided tour feature using Shepherd.js. This README will walk you through the project structure, setup, and usage.
+Welcome to My Bio! This project is a sophisticated ToDo application enhanced with a guided tour feature using Shepherd.js. This README will walk you through the project structure, setup, and usage.
 
 ## Table of Contents
 
@@ -26,8 +26,8 @@ To get started with Quine Quest, follow these steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/<USERNAME>/quine-quest.git
-   cd quine-quest
+   git https://github.com/ShikharSinghKushwaha/todowithshepherd.git
+   cd todofullapp
    ```
 
 2. **Install dependencies**:
