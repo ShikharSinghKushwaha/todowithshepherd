@@ -1,0 +1,41 @@
+.form-container{
+    width: 95%;
+    margin-bottom: 10px;
+    
+
+}
+
+.input-field{
+    width: 80%;  
+    border: none;   
+    border-radius: 4px;   
+    padding: 6px;
+    font-size: 18px;
+    font-family: 'Outfit';
+}
+
+.submit-button{
+    width:100px;
+    padding: 6px;
+    background-color: black;
+    color: white;
+    font-family: 'Outfit';
+    border-radius: 5px;
+    font-size: 18px;
+    outline: none;
+    border: none;
+    margin-left: 5px;
+}
+
+.button{
+    
+    padding: 5px;
+    background-color: black;
+    color: white;
+    font-family: 'Outfit';
+    border-radius: 5px;
+    font-size: 15px;
+    outline: none;
+    border: none;
+    margin-left: 5px;
+}
